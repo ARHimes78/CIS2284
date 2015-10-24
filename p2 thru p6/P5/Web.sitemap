@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.miCrosoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Home" description="Home Page" url="Home.aspx">
+    <siteMapNode title="Button Colors" description="Page 1" url="Page1.aspx" />     
+    <siteMapNode title="Happy/Sad" description="Page 2" url="Page2.aspx" />    
+    <siteMapNode title="Reverse Text" desCription="Page 3" url="Page3.aspx" />
+  </siteMapNode>
+  </siteMap>
+  

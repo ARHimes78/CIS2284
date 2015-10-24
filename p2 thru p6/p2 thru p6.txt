@@ -1,0 +1,131 @@
+P2: A page with CSS.
+
+Page.html
+Styles.css
+
+Web.config:
+
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  For more information on how to configure your ASP.NET application, please visit
+  http://go.microsoft.com/fwlink/?LinkId=169433
+  -->
+<configuration>
+  <system.web>
+    <compilation debug="true" targetFramework="4.5" />
+    <httpRuntime targetFramework="4.5" />
+  </system.web>
+</configuration>
+
+
+
+P3: Input that goes to Profile database. Display data from a class ToString(). Anonymous user allowed.
+
+WebFormTest.aspx
+ProfileTest.cs
+Database1.mdf from C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regsql.exe
+
+Web.config:
+
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  For more information on how to configure your ASP.NET application, please visit
+  http://go.microsoft.com/fwlink/?LinkId=169433
+  -->
+<configuration>
+  <connectionStrings>
+    <clear/>
+    <add name="OraAspNetConString" connectionString=" "/>
+    <add
+      name ="LocalSqlServer"
+      connectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|Database1.mdf;Integrated Security=True"
+      providerName="System.Data.SqlClient"/>
+  </connectionStrings>
+  <system.web>
+    <compilation debug="true" targetFramework="4.5" />
+    <httpRuntime targetFramework="4.5" />
+    <anonymousIdentification enabled="true"/>
+    <profile>
+      <properties>
+        <add allowAnonymous="true" name="NameTest" type="System.String" serializeAs="Xml"/>
+        <add allowAnonymous="true" name="ProfileTest" type="HimesP3.ProfileTest" serializeAs="Binary"/>
+      </properties>
+    </profile>
+  </system.web>
+</configuration>
+
+
+
+P4: Calculator page, takes webform data to/from a class. Welcome page.
+
+WelcomePage.aspx
+CalculatorWebForm.aspx
+CalculatorClass.cs
+
+Web.config (no change):
+
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  For more information on how to configure your ASP.NET application, please visit
+  http://go.microsoft.com/fwlink/?LinkId=169433
+  -->
+<configuration>
+  <system.web>
+    <compilation debug="true" targetFramework="4.5" />
+    <httpRuntime targetFramework="4.5" />
+  </system.web>
+</configuration>
+
+
+P5: Master Page with 3 content pages, site navigation.
+
+MasterPage.Master
+Home.aspx
+Page1.aspx
+Page2.aspx
+Page3.aspx
+styles.css
+
+Web.config (nothing):
+Web.sitemap:
+
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.miCrosoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Home" description="Home Page" url="Home.aspx">
+    <siteMapNode title="Button Colors" description="Page 1" url="Page1.aspx" />     
+    <siteMapNode title="Happy/Sad" description="Page 2" url="Page2.aspx" />    
+    <siteMapNode title="Reverse Text" desCription="Page 3" url="Page3.aspx" />
+  </siteMapNode>
+  </siteMap>
+
+
+P6: Survey page, validation, customized database that can be shown with a ListView/GridView/etc (not graded yet)
+
+ValidationPage.aspx
+ValidationPassed.aspx
+SurveyInput.cs
+SurveyDB.mdf
+
+Web.config:
+
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  For more information on how to configure your ASP.NET application, please visit
+  http://go.microsoft.com/fwlink/?LinkId=169433
+  -->
+<configuration>
+  <connectionStrings>
+    <add name="ConnectionString" connectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\SurveyDB.mdf;Integrated Security=True"
+      providerName="System.Data.SqlClient" />
+  </connectionStrings>
+  <system.web>
+    <compilation debug="true" targetFramework="4.5" />
+    <httpRuntime targetFramework="4.5" />
+  </system.web>
+  <appSettings>
+    <add key="ValidationSettings:UnobtrusiveValidationMode"
+         value="None"/>
+  </appSettings>
+</configuration>
+
+Note: some projects contained material in the Images folder, also each .aspx should include a .aspx.cs to also look at.
