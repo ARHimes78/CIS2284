@@ -1,0 +1,6 @@
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\CustomModuleDemo\CustomModuleDemo\bin\CustomModuleDemo.dll.config
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\CustomModuleDemo\CustomModuleDemo\bin\CustomModuleDemo.dll
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\CustomModuleDemo\CustomModuleDemo\bin\CustomModuleDemo.pdb
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\CustomModuleDemo\CustomModuleDemo\obj\Debug\CustomModuleDemo.csprojResolveAssemblyReference.cache
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\CustomModuleDemo\CustomModuleDemo\obj\Debug\CustomModuleDemo.dll
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\CustomModuleDemo\CustomModuleDemo\obj\Debug\CustomModuleDemo.pdb

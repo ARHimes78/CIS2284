@@ -1,0 +1,6 @@
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module02HTML5CSS\HTML5CSSDemo\HTMLCSSDemo\HTMLCSSDemo\bin\HTMLCSSDemo.dll.config
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module02HTML5CSS\HTML5CSSDemo\HTMLCSSDemo\HTMLCSSDemo\bin\HTMLCSSDemo.dll
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module02HTML5CSS\HTML5CSSDemo\HTMLCSSDemo\HTMLCSSDemo\bin\HTMLCSSDemo.pdb
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module02HTML5CSS\HTML5CSSDemo\HTMLCSSDemo\HTMLCSSDemo\obj\Debug\HTMLCSSDemo.csprojResolveAssemblyReference.cache
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module02HTML5CSS\HTML5CSSDemo\HTMLCSSDemo\HTMLCSSDemo\obj\Debug\HTMLCSSDemo.dll
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module02HTML5CSS\HTML5CSSDemo\HTMLCSSDemo\HTMLCSSDemo\obj\Debug\HTMLCSSDemo.pdb

@@ -1,0 +1,5 @@
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Chapter 8\Chapter8Demo\DatabaseDemo2\DatabaseDemo2\bin\DatabaseDemo2.dll
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Chapter 8\Chapter8Demo\DatabaseDemo2\DatabaseDemo2\bin\DatabaseDemo2.pdb
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Chapter 8\Chapter8Demo\DatabaseDemo2\DatabaseDemo2\obj\Debug\DatabaseDemo2.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Chapter 8\Chapter8Demo\DatabaseDemo2\DatabaseDemo2\obj\Debug\DatabaseDemo2.dll
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Chapter 8\Chapter8Demo\DatabaseDemo2\DatabaseDemo2\obj\Debug\DatabaseDemo2.pdb

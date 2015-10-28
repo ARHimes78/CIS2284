@@ -1,0 +1,10 @@
+C:\Users\rgarner7\Dropbox\Fall2014\CIS2284ASP\MaterialsByDay\CIS2284Day16SiteNavigation\CompletedDemo\SiteNavigationDemo\SiteNavigationDemo\bin\SiteNavigationDemo.dll
+C:\Users\rgarner7\Dropbox\Fall2014\CIS2284ASP\MaterialsByDay\CIS2284Day16SiteNavigation\CompletedDemo\SiteNavigationDemo\SiteNavigationDemo\bin\SiteNavigationDemo.pdb
+C:\Users\rgarner7\Dropbox\Fall2014\CIS2284ASP\MaterialsByDay\CIS2284Day16SiteNavigation\CompletedDemo\SiteNavigationDemo\SiteNavigationDemo\obj\Debug\SiteNavigationDemo.dll
+C:\Users\rgarner7\Dropbox\Fall2014\CIS2284ASP\MaterialsByDay\CIS2284Day16SiteNavigation\CompletedDemo\SiteNavigationDemo\SiteNavigationDemo\obj\Debug\SiteNavigationDemo.pdb
+C:\Users\rob82_000\Dropbox\2105Fall\2015FallCIS2284\Day5-13Chapter41WebForms\Demos\Demo4SiteNavigation\SiteNavigationDemo\SiteNavigationDemo\bin\SiteNavigationDemo.dll.config
+C:\Users\rob82_000\Dropbox\2105Fall\2015FallCIS2284\Day5-13Chapter41WebForms\Demos\Demo4SiteNavigation\SiteNavigationDemo\SiteNavigationDemo\bin\SiteNavigationDemo.dll
+C:\Users\rob82_000\Dropbox\2105Fall\2015FallCIS2284\Day5-13Chapter41WebForms\Demos\Demo4SiteNavigation\SiteNavigationDemo\SiteNavigationDemo\bin\SiteNavigationDemo.pdb
+C:\Users\rob82_000\Dropbox\2105Fall\2015FallCIS2284\Day5-13Chapter41WebForms\Demos\Demo4SiteNavigation\SiteNavigationDemo\SiteNavigationDemo\obj\Debug\SiteNavigationDemo.csprojResolveAssemblyReference.cache
+C:\Users\rob82_000\Dropbox\2105Fall\2015FallCIS2284\Day5-13Chapter41WebForms\Demos\Demo4SiteNavigation\SiteNavigationDemo\SiteNavigationDemo\obj\Debug\SiteNavigationDemo.dll
+C:\Users\rob82_000\Dropbox\2105Fall\2015FallCIS2284\Day5-13Chapter41WebForms\Demos\Demo4SiteNavigation\SiteNavigationDemo\SiteNavigationDemo\obj\Debug\SiteNavigationDemo.pdb

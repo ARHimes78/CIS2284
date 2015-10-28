@@ -1,0 +1,6 @@
+C:\Users\rob82_000\Desktop\DatabaseDemo\DatabaseDemo\bin\DatabaseDemo.dll.config
+C:\Users\rob82_000\Desktop\DatabaseDemo\DatabaseDemo\bin\DatabaseDemo.dll
+C:\Users\rob82_000\Desktop\DatabaseDemo\DatabaseDemo\bin\DatabaseDemo.pdb
+C:\Users\rob82_000\Desktop\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.csprojResolveAssemblyReference.cache
+C:\Users\rob82_000\Desktop\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.dll
+C:\Users\rob82_000\Desktop\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.pdb

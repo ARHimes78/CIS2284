@@ -1,0 +1,5 @@
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\CustomHandlerDemo\CustomHandlerDemo\bin\CustomHandlerDemo.dll.config
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\CustomHandlerDemo\CustomHandlerDemo\bin\CustomHandlerDemo.dll
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\CustomHandlerDemo\CustomHandlerDemo\bin\CustomHandlerDemo.pdb
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\CustomHandlerDemo\CustomHandlerDemo\obj\Debug\CustomHandlerDemo.dll
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\CustomHandlerDemo\CustomHandlerDemo\obj\Debug\CustomHandlerDemo.pdb

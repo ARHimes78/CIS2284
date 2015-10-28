@@ -1,0 +1,19 @@
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Day 6\Day6Demo\Day6Demo\bin\Day6Demo.dll
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Day 6\Day6Demo\Day6Demo\bin\Day6Demo.pdb
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Day 6\Day6Demo\Day6Demo\obj\Debug\Day6Demo.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Day 6\Day6Demo\Day6Demo\obj\Debug\Day6Demo.dll
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Day 6\Day6Demo\Day6Demo\obj\Debug\Day6Demo.pdb
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Day 6\Day6Demo\Day6Demo\bin\AspNet.ScriptManager.jQuery.dll
+E:\Day 6\Day6Demo\Day6Demo\bin\Day6Demo.dll
+E:\Day 6\Day6Demo\Day6Demo\bin\Day6Demo.pdb
+E:\Day 6\Day6Demo\Day6Demo\bin\AspNet.ScriptManager.jQuery.dll
+E:\Day 6\Day6Demo\Day6Demo\obj\Debug\Day6Demo.csprojResolveAssemblyReference.cache
+E:\Day 6\Day6Demo\Day6Demo\obj\Debug\Day6Demo.dll
+E:\Day 6\Day6Demo\Day6Demo\obj\Debug\Day6Demo.pdb
+C:\Users\rob82_000\Dropbox\spring2015\CIS2284ASP\MaterialsByDay\CIS2284Day7ValidationControls\ValidationControlsDemo\ValidatedControlsDemo\Day6Demo\bin\Day6Demo.dll.config
+C:\Users\rob82_000\Dropbox\spring2015\CIS2284ASP\MaterialsByDay\CIS2284Day7ValidationControls\ValidationControlsDemo\ValidatedControlsDemo\Day6Demo\bin\Day6Demo.dll
+C:\Users\rob82_000\Dropbox\spring2015\CIS2284ASP\MaterialsByDay\CIS2284Day7ValidationControls\ValidationControlsDemo\ValidatedControlsDemo\Day6Demo\bin\Day6Demo.pdb
+C:\Users\rob82_000\Dropbox\spring2015\CIS2284ASP\MaterialsByDay\CIS2284Day7ValidationControls\ValidationControlsDemo\ValidatedControlsDemo\Day6Demo\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\rob82_000\Dropbox\spring2015\CIS2284ASP\MaterialsByDay\CIS2284Day7ValidationControls\ValidationControlsDemo\ValidatedControlsDemo\Day6Demo\obj\Debug\Day6Demo.csprojResolveAssemblyReference.cache
+C:\Users\rob82_000\Dropbox\spring2015\CIS2284ASP\MaterialsByDay\CIS2284Day7ValidationControls\ValidationControlsDemo\ValidatedControlsDemo\Day6Demo\obj\Debug\Day6Demo.dll
+C:\Users\rob82_000\Dropbox\spring2015\CIS2284ASP\MaterialsByDay\CIS2284Day7ValidationControls\ValidationControlsDemo\ValidatedControlsDemo\Day6Demo\obj\Debug\Day6Demo.pdb

@@ -1,0 +1,12 @@
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demo5Session\SessionDemo\SessionDemo\bin\SessionDemo.dll.config
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demo5Session\SessionDemo\SessionDemo\bin\SessionDemo.dll
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demo5Session\SessionDemo\SessionDemo\bin\SessionDemo.pdb
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demo5Session\SessionDemo\SessionDemo\obj\Debug\SessionDemo.csprojResolveAssemblyReference.cache
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demo5Session\SessionDemo\SessionDemo\obj\Debug\SessionDemo.dll
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demo5Session\SessionDemo\SessionDemo\obj\Debug\SessionDemo.pdb
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demos\Demo5Session\SessionDemo\SessionDemo\bin\SessionDemo.dll.config
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demos\Demo5Session\SessionDemo\SessionDemo\bin\SessionDemo.dll
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demos\Demo5Session\SessionDemo\SessionDemo\bin\SessionDemo.pdb
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demos\Demo5Session\SessionDemo\SessionDemo\obj\Debug\SessionDemo.csprojResolveAssemblyReference.cache
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demos\Demo5Session\SessionDemo\SessionDemo\obj\Debug\SessionDemo.dll
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demos\Demo5Session\SessionDemo\SessionDemo\obj\Debug\SessionDemo.pdb

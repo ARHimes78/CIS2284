@@ -1,0 +1,5 @@
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Chapter 23\PuttingItTogether\PuttingItTogether\bin\PuttingItTogether.dll
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Chapter 23\PuttingItTogether\PuttingItTogether\bin\PuttingItTogether.pdb
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Chapter 23\PuttingItTogether\PuttingItTogether\obj\Debug\PuttingItTogether.dll
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Chapter 23\PuttingItTogether\PuttingItTogether\obj\Debug\PuttingItTogether.pdb
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Chapter 23\PuttingItTogether\PuttingItTogether\obj\Debug\PuttingItTogether.csprojResolveAssemblyReference.cache

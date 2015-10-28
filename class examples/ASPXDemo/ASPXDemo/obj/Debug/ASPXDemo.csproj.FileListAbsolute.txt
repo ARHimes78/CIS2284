@@ -1,0 +1,6 @@
+C:\Users\rob82_000\Dropbox\2015FallCIS2284\Day5-13Chapter41WebForms\Demos\Demo2ASPXCodeEncodingDemo\ASPXDemo\ASPXDemo\bin\ASPXDemo.dll.config
+C:\Users\rob82_000\Dropbox\2015FallCIS2284\Day5-13Chapter41WebForms\Demos\Demo2ASPXCodeEncodingDemo\ASPXDemo\ASPXDemo\bin\ASPXDemo.dll
+C:\Users\rob82_000\Dropbox\2015FallCIS2284\Day5-13Chapter41WebForms\Demos\Demo2ASPXCodeEncodingDemo\ASPXDemo\ASPXDemo\bin\ASPXDemo.pdb
+C:\Users\rob82_000\Dropbox\2015FallCIS2284\Day5-13Chapter41WebForms\Demos\Demo2ASPXCodeEncodingDemo\ASPXDemo\ASPXDemo\obj\Debug\ASPXDemo.dll
+C:\Users\rob82_000\Dropbox\2015FallCIS2284\Day5-13Chapter41WebForms\Demos\Demo2ASPXCodeEncodingDemo\ASPXDemo\ASPXDemo\obj\Debug\ASPXDemo.pdb
+C:\Users\rob82_000\Dropbox\2015FallCIS2284\Day5-13Chapter41WebForms\Demos\Demo2ASPXCodeEncodingDemo\ASPXDemo\ASPXDemo\obj\Debug\ASPXDemo.csprojResolveAssemblyReference.cache

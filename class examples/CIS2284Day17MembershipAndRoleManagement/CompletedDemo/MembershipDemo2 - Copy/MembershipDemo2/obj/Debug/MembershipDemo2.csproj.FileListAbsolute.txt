@@ -1,0 +1,5 @@
+C:\Users\rgarner7\Dropbox\Fall2014\CIS2284ASP\MaterialsByDay\CIS2284Day17MembershipAndRoleManagement\CompletedDemo\MembershipDemo2\MembershipDemo2\bin\MembershipDemo2.dll
+C:\Users\rgarner7\Dropbox\Fall2014\CIS2284ASP\MaterialsByDay\CIS2284Day17MembershipAndRoleManagement\CompletedDemo\MembershipDemo2\MembershipDemo2\bin\MembershipDemo2.pdb
+C:\Users\rgarner7\Dropbox\Fall2014\CIS2284ASP\MaterialsByDay\CIS2284Day17MembershipAndRoleManagement\CompletedDemo\MembershipDemo2\MembershipDemo2\obj\Debug\MembershipDemo2.csprojResolveAssemblyReference.cache
+C:\Users\rgarner7\Dropbox\Fall2014\CIS2284ASP\MaterialsByDay\CIS2284Day17MembershipAndRoleManagement\CompletedDemo\MembershipDemo2\MembershipDemo2\obj\Debug\MembershipDemo2.dll
+C:\Users\rgarner7\Dropbox\Fall2014\CIS2284ASP\MaterialsByDay\CIS2284Day17MembershipAndRoleManagement\CompletedDemo\MembershipDemo2\MembershipDemo2\obj\Debug\MembershipDemo2.pdb

@@ -1,0 +1,6 @@
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\ViewStateDemo\ViewStateDemo\bin\ViewStateDemo.dll.config
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\ViewStateDemo\ViewStateDemo\bin\ViewStateDemo.dll
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\ViewStateDemo\ViewStateDemo\bin\ViewStateDemo.pdb
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\ViewStateDemo\ViewStateDemo\obj\Debug\ViewStateDemo.csprojResolveAssemblyReference.cache
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\ViewStateDemo\ViewStateDemo\obj\Debug\ViewStateDemo.dll
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Module03CoreASP\ViewStateDemo\ViewStateDemo\obj\Debug\ViewStateDemo.pdb

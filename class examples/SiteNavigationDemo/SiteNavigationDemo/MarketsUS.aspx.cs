@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace SiteNavigationDemo
+{
+    public partial class MarketUS : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            TreeView1.CollapseAll();
+        }
+
+        protected void btnAddNode_Click(object sender, EventArgs e)
+        {
+            TreeNode myNode = new TreeNode();
+            myNode.Text = txbText.Text;
+            myNode.NavigateUrl = txbUrl.Text;
+            TreeView1.FindNode("Home/Finance/Markets").ChildNodes.Add(myNode);
+        }
+    }
+}

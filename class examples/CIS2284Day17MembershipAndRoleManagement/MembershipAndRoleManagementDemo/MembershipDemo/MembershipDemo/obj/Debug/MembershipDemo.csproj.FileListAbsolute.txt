@@ -1,0 +1,5 @@
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Chapter 19\MembershipDemo\MembershipDemo\bin\MembershipDemo.dll
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Chapter 19\MembershipDemo\MembershipDemo\bin\MembershipDemo.pdb
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Chapter 19\MembershipDemo\MembershipDemo\obj\Debug\MembershipDemo.dll
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Chapter 19\MembershipDemo\MembershipDemo\obj\Debug\MembershipDemo.pdb
+C:\Users\user\Dropbox\CNM\CIS2284\Lesson Plans By Day\Chapter 19\MembershipDemo\MembershipDemo\obj\Debug\MembershipDemo.csprojResolveAssemblyReference.cache

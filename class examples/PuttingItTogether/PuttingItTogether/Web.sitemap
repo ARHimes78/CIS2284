@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="User Pages"  description="">
+    <siteMapNode url="Default.aspx" title="Home"  description="Home page." />
+    <siteMapNode title="Account management" description="">
+      <siteMapNode url="NewAccount.aspx" title="Create New Account"  description="Create a new account." />
+    </siteMapNode>
+    <siteMapNode title="Admin Pages" description="">
+      <siteMapNode url="AdminPage.aspx"  title="Admin Page"  description="Just a generic page for admins." />
+      <siteMapNode url="RoleManagement.aspx" title="Role Management"  description="Create/Delete roles." />
+      <siteMapNode url="UsersByRole.aspx"  title="Add/Remove Users To Roles"  description="Add/Remove users to/from roles." />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

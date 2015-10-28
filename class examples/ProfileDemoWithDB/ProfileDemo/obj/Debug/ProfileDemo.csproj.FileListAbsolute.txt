@@ -1,0 +1,5 @@
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demos\ProfileDemoWithDB\ProfileDemo\bin\ProfileDemo.dll.config
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demos\ProfileDemoWithDB\ProfileDemo\bin\ProfileDemo.dll
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demos\ProfileDemoWithDB\ProfileDemo\bin\ProfileDemo.pdb
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demos\ProfileDemoWithDB\ProfileDemo\obj\Debug\ProfileDemo.dll
+C:\Users\rob82_000\Dropbox\C#CourseNext\C#NETCourse\ASPNETCourse\Day3-4Chapter40CoreASP\Demos\ProfileDemoWithDB\ProfileDemo\obj\Debug\ProfileDemo.pdb
