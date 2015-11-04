@@ -1,0 +1,17 @@
+﻿@model MVCViewsDemo.Models.EventsAndMenus
+@{
+    ViewBag.Title = "Use A Partial View";
+}
+<script type="text/javascript">
+    $(function () {
+        $("#getEvents").click(function () {
+            $("#events").load("http://localhost:51277/Home/ShowEvents");
+            $("#test").innerHTML = "Event ran!";
+        });
+    });
+</script>
+<h2>UseAPartialView3</h2>
+<div>this is the main view</div>
+<button id="getEvents">Get Events</button>
+<div id="events"></div>
+

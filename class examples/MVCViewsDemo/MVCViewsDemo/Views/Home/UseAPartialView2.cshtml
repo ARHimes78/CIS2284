@@ -1,0 +1,9 @@
+﻿@model MVCViewsDemo.Models.EventsAndMenus
+@{
+    ViewBag.Title = "Use a Partial View";
+}
+<h2>Use A Partial View</h2>
+<div>this is the main view</div>
+<div>
+    @Html.Action("ShowEvents")
+</div>
