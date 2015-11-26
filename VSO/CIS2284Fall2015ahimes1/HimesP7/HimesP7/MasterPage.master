@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <title></title>
+    <link href="Styles.css" type="text/css" rel="stylesheet" />
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table>
+                <tr>
+                    <td>
+                        <p>
+                            Your lucky number for today is:
+                            <asp:Label ID="lblLucky" runat="server" Text=""></asp:Label>
+                        </p>
+                        <p>
+                            Website groups you're a member of: 
+                            <asp:Label ID="lblRoles" runat="server" Text=""></asp:Label>
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>
+                            <asp:SiteMapPath ID="SiteMapPath1" runat="server"></asp:SiteMapPath>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            Online:
+                                <asp:LoginName ID="LoginName1" runat="server" />
+
+                        </p>
+                        <p>
+                            <asp:LoginStatus ID="LoginStatus1" runat="server" OnLoggedOut="LoginStatus1_LoggedOut" />
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <asp:Button ID="btnChangePassword" runat="server" Text="Change Password" PostBackUrl="~/ChangePassword.aspx" />
+                        </p>
+                        <p>
+                            <asp:Button ID="btnAbout" runat="server" Text="About this site" PostBackUrl="~/About.aspx"/>
+                        </p>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1" ExpandDepth="2"></asp:TreeView>
+                        <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+
+                    </td>
+                    <td>
+                        <header>Welcome to webpages!</header>
+                        <asp:Image ID="Image1" runat="server" ImageUrl="Images\logo.png" />
+                    </td>
+                </tr>
+            </table>
+            <div id="test">
+                <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+
+        </div>
+    </form>
+</body>
+</html>

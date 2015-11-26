@@ -1,0 +1,7 @@
+C:\Users\ahimes1\Desktop\HimesP3\HimesP3\HimesP3.Tests\bin\Debug\HimesP3.Tests.dll
+C:\Users\ahimes1\Desktop\HimesP3\HimesP3\HimesP3.Tests\bin\Debug\HimesP3.Tests.pdb
+C:\Users\ahimes1\Desktop\HimesP3\HimesP3\HimesP3.Tests\bin\Debug\HimesP3.dll
+C:\Users\ahimes1\Desktop\HimesP3\HimesP3\HimesP3.Tests\bin\Debug\HimesP3.pdb
+C:\Users\ahimes1\Desktop\HimesP3\HimesP3\HimesP3.Tests\obj\Debug\HimesP3.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ahimes1\Desktop\HimesP3\HimesP3\HimesP3.Tests\obj\Debug\HimesP3.Tests.dll
+C:\Users\ahimes1\Desktop\HimesP3\HimesP3\HimesP3.Tests\obj\Debug\HimesP3.Tests.pdb

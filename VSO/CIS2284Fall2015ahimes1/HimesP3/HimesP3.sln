@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HimesP3", "HimesP3\HimesP3.csproj", "{27BC1B3E-FBFF-4001-8A1F-8B5B3AA4C109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HimesP3.Tests", "HimesP3.Tests\HimesP3.Tests.csproj", "{01C19DC5-8F86-4FC8-99A4-A102F00C2230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BC1B3E-FBFF-4001-8A1F-8B5B3AA4C109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BC1B3E-FBFF-4001-8A1F-8B5B3AA4C109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BC1B3E-FBFF-4001-8A1F-8B5B3AA4C109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BC1B3E-FBFF-4001-8A1F-8B5B3AA4C109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C19DC5-8F86-4FC8-99A4-A102F00C2230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C19DC5-8F86-4FC8-99A4-A102F00C2230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C19DC5-8F86-4FC8-99A4-A102F00C2230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C19DC5-8F86-4FC8-99A4-A102F00C2230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Home" description="Home Page" url="Home.aspx" roles="User">
+    <siteMapNode title="Button Colors" description="" url="Page1.aspx" />     
+    <siteMapNode title="Happy/Sad" description="" url="Page2.aspx" />    
+    <siteMapNode title="Reverse Text" description="" url="Page3.aspx" />
+    <siteMapNode title="Profile Test" description="" url="Page4.aspx" />
+    <siteMapNode title="Calculator" description="" url="Page5.aspx" />
+    <siteMapNode title="Questionnaire" description="" url="Page6.aspx" />
+    <siteMapNode title="Mystery Page" description="" url="Page7.aspx" />
+    <siteMapNode title="Admins only!" description="" roles="Admin">
+      <siteMapNode title="Role Management" description="" url="RoleManagement.aspx" />
+      <siteMapNode title="Users by Role" description="" url="Users.aspx" />
+      <siteMapNode title="Kick a Member off this Site" description="" url="KickOut.aspx" />
+    </siteMapNode>
+  </siteMapNode>
+  </siteMap>
+  

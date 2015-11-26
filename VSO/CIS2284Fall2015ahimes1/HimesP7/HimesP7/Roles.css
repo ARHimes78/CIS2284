@@ -1,0 +1,14 @@
+﻿#roleheader {
+    font-family: 'Times New Roman';
+    background: #ffffff;
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#rolecontent {
+    font-family: 'Times New Roman';
+    background: #ffffff;
+    color: #000000;
+    font-size: 16px;
+}

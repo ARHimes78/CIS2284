@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="MasterPageDemo.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Master Page Title</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table cellpadding="3" border="1"> 
+        <tr style="background:silver"> 
+            <td colspan="2"> 
+                <h1>My Company Home Page</h1>
+                <b>
+                    User's GUID:
+                    <asp:Label ID="lblGUID" runat="server" Text=""></asp:Label>
+                </b>
+            </td> 
+        </tr> 
+        <tr>
+            <td> 
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    Test
+                </asp:ContentPlaceHolder> 
+            </td> 
+            <td>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server"> 
+                    <asp:Image ID="Image1" runat="server" src="Images\esch.jpg"/>
+                </asp:ContentPlaceHolder> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td colspan="2"> Copyright 2012 — My Company </td>
+        </tr> 
+    </table> 
+
+    <div>
+        
+        
+    </div>
+    </form>
+</body>
+</html>

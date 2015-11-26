@@ -1,0 +1,30 @@
+C:\Users\dbergsbaken\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\CodeFirstDemoMine.exe.config
+C:\Users\dbergsbaken\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\DemoDB.mdf
+C:\Users\dbergsbaken\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\DemoDB_log.ldf
+C:\Users\dbergsbaken\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\CodeFirstDemoMine.exe
+C:\Users\dbergsbaken\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\CodeFirstDemoMine.pdb
+C:\Users\dbergsbaken\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\EntityFramework.dll
+C:\Users\dbergsbaken\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dbergsbaken\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\EntityFramework.xml
+C:\Users\dbergsbaken\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dbergsbaken\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\obj\Debug\CodeFirstDemoMine.csprojResolveAssemblyReference.cache
+C:\Users\dbergsbaken\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\obj\Debug\CodeFirstDemoMine.exe
+C:\Users\dbergsbaken\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\obj\Debug\CodeFirstDemoMine.pdb
+C:\Users\ahimes1\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\CodeFirstDemoMine.exe.config
+C:\Users\ahimes1\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\obj\Debug\CodeFirstDemoMine.exe
+C:\Users\ahimes1\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\obj\Debug\CodeFirstDemoMine.pdb
+C:\Users\ahimes1\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\CodeFirstDemoMine.exe
+C:\Users\ahimes1\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\CodeFirstDemoMine.pdb
+C:\Users\ahimes1\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\EntityFramework.dll
+C:\Users\ahimes1\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahimes1\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\EntityFramework.xml
+C:\Users\ahimes1\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahimes1\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\obj\Debug\CodeFirstDemoMine.csprojResolveAssemblyReference.cache
+C:\Users\ahimes1\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\obj\Debug\CodeFirstDemoMine.Migrations.InitialCreate.resources
+C:\Users\ahimes1\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\obj\Debug\CodeFirstDemoMine.csproj.GenerateResource.Cache
+C:\Users\ahimes1\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\DemoDB1.mdf
+C:\Users\ahimes1\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\DemoDB1_log.ldf
+C:\Users\ahimes1\Desktop\CodeFirstDemoMine\CodeFirstDemoMine\obj\Debug\CodeFirstDemoMine.Migrations.AddHireDate.resources
+C:\Users\ahimes1\Desktop\CIS2284Fall2015ahimes1\Week 9 and 10\CodeFirstDemoMine\CodeFirstDemoMine\bin\Debug\CodeFirstDemoMine.exe.config
+C:\Users\ahimes1\Desktop\CIS2284Fall2015ahimes1\Week 9 and 10\CodeFirstDemoMine\CodeFirstDemoMine\obj\Debug\CodeFirstDemoMine.exe
+C:\Users\ahimes1\Desktop\CIS2284Fall2015ahimes1\Week 9 and 10\CodeFirstDemoMine\CodeFirstDemoMine\obj\Debug\CodeFirstDemoMine.pdb

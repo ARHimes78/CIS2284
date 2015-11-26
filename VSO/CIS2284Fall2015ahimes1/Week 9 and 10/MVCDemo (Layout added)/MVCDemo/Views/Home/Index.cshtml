@@ -1,0 +1,31 @@
+﻿@{
+    Layout = null;
+    string name = "Sol Suncat";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <header>View page demo.</header>
+        <p>
+            @ViewData["MyReallyCoolKey"]
+            @ViewBag.MyReallyCoolKey
+        </p>
+        <p>
+            Our school mascot is @name (see him on campus!)
+        </p>
+        <ul>
+            @foreach (char c in name)
+            {
+                <li>@c</li>
+            }
+        </ul>
+    </div>
+</body>
+</html>

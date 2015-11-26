@@ -1,0 +1,6 @@
+C:\Users\ahimes1\Desktop\CIS2284Fall2015ahimes1\DataBaseDemo\DatabaseDemo\bin\DatabaseDemo.dll.config
+C:\Users\ahimes1\Desktop\CIS2284Fall2015ahimes1\DataBaseDemo\DatabaseDemo\bin\DatabaseDemo.dll
+C:\Users\ahimes1\Desktop\CIS2284Fall2015ahimes1\DataBaseDemo\DatabaseDemo\bin\DatabaseDemo.pdb
+C:\Users\ahimes1\Desktop\CIS2284Fall2015ahimes1\DataBaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.csprojResolveAssemblyReference.cache
+C:\Users\ahimes1\Desktop\CIS2284Fall2015ahimes1\DataBaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.dll
+C:\Users\ahimes1\Desktop\CIS2284Fall2015ahimes1\DataBaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.pdb

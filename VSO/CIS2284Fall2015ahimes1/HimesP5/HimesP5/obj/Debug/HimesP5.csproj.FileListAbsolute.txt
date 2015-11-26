@@ -1,0 +1,6 @@
+C:\Users\ahimes1\Desktop\CIS2284Fall2015ahimes1\HimesP5\HimesP5\bin\HimesP5.dll.config
+C:\Users\ahimes1\Desktop\CIS2284Fall2015ahimes1\HimesP5\HimesP5\bin\HimesP5.dll
+C:\Users\ahimes1\Desktop\CIS2284Fall2015ahimes1\HimesP5\HimesP5\bin\HimesP5.pdb
+C:\Users\ahimes1\Desktop\CIS2284Fall2015ahimes1\HimesP5\HimesP5\obj\Debug\HimesP5.csprojResolveAssemblyReference.cache
+C:\Users\ahimes1\Desktop\CIS2284Fall2015ahimes1\HimesP5\HimesP5\obj\Debug\HimesP5.dll
+C:\Users\ahimes1\Desktop\CIS2284Fall2015ahimes1\HimesP5\HimesP5\obj\Debug\HimesP5.pdb

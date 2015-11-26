@@ -1,0 +1,48 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family:Arial;
+    font-size:12px;
+}
+header {
+    font-family:'Agency FB';
+    font-size:20px;
+    text-align:center;
+    color:#0094ff;
+    background-color:#203638
+}
+#mainContent {
+    background-color:#4cff00;
+    height: 500px;
+}
+.emphasis {
+                color: red;
+                font-weight: 800;
+            }
+nav {
+    float: left;
+    height: 500px;
+    width: 200px;
+    padding: 5px;
+    vertical-align: top;
+    background-color:#aaaaaa
+}
+aside {
+    float: right;
+    height: 475px;
+    width: 200px;
+    background-color:#ff6a00;
+}
+footer {
+    color: white;
+    background-color:#888888;
+}
+header, #mainContent, nav, aside, footer
+{
+    padding: 25px;
+}
+a {
+    color: yellow;
+}

@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="HimesP5.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>HimesP5</title>
+    <link href="Styles.css" type="text/css" rel="stylesheet"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table>
+            <tr>
+                <td>
+                    <p>
+                        <asp:SiteMapPath ID="SiteMapPath1" runat="server"></asp:SiteMapPath>
+                    </p>
+                    <p>
+                        Your lucky number for today is: <asp:Label ID="txtLucky" runat="server" Text=""></asp:Label>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1"></asp:TreeView>
+                    <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+                </td>
+                <td>
+                    <h1>Welcome to webpages!</h1>
+                    <asp:Image ID="Image1" runat="server" src="Images\logo.png"/>
+                </td>
+            </tr>
+        </table>
+        <p id="test">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            
+            </asp:ContentPlaceHolder>
+        </p>
+        
+    </div>
+    </form>
+</body>
+</html>
