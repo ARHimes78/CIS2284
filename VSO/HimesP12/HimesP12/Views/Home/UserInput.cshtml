@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "UserInput";
+}
+
+<h2>Sentence generator</h2>
+
+<div>
+    <form action="/Home/UserInput" method="post">
+        <p>
+            Enter a name or pronoun: <input name="nameorpronoun" />
+        </p>
+        <p>
+            Enter a verb in the past tense: <input name="verbpasttense" />
+        </p>
+        <p>
+            Enter an adjective: <input name="adjective">
+        </p>
+        <p>
+            Enter a noun: <input name="noun" />
+        </p>
+        <p>
+            Enter a number (don't use letters!): <input name="number" />
+        </p>
+        <p>
+            <button type="submit">Submit</button>
+        </p>
+    </form>
+
+</div>

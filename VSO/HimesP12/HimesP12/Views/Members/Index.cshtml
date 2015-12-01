@@ -1,0 +1,75 @@
+﻿@model IEnumerable<HimesP12.Models.Member>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@if (Request.IsAuthenticated)
+{
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+}
+<table class="table" border="1" style="background:#ffffcc">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MemberSince)
+        </th>
+        @if (Request.IsAuthenticated)
+        {
+            <th>
+                @Html.Label("Table configuration")
+            </th>
+        }
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            @if (item.MemberSince != null)
+            {
+                <td>
+
+
+                    @Html.Label(((DateTime)item.MemberSince).ToShortDateString(), new { style = "font-weight:normal" })
+
+                </td>
+            }
+            @if (Request.IsAuthenticated)
+            {
+                <td>
+                    @Html.ActionLink("Edit | ", "Edit", new { id = item.MemberID })
+                    @Html.ActionLink("Details | ", "Details", new { id = item.MemberID })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.MemberID })
+
+                </td>
+            }
+        </tr>
+    }
+</table>

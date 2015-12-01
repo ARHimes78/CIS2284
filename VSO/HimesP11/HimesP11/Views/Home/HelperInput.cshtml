@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "HelperInput";
+}
+<h2>Sentence generator (HTML Helper version)</h2>
+
+@using (Html.BeginForm("UserInput", "Home", "post"))
+{
+    <p>
+        @Html.Label("Enter a name or pronoun:")
+        @Html.Editor("nameorpronoun")
+    </p>
+    <p>
+        @Html.Label("Enter a verb in the past tense:")
+        @Html.Editor("verbpasttense")
+    </p>
+    <p>
+        @Html.Label("Enter an adjective:")
+        @Html.Editor("adjective")
+    </p>
+    <p>
+        @Html.Label("Enter a noun:")
+        @Html.Editor("noun")
+    </p>
+    <p>
+        @Html.Label("Enter a number (don't use letters!):")
+        @Html.Editor("number")
+    </p>
+    <p>
+        <button type="submit">Submit</button>
+    </p>
+}
