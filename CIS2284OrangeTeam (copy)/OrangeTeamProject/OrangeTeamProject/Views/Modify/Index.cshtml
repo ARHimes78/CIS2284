@@ -1,0 +1,51 @@
+﻿@model IEnumerable<OrangeTeamProject.Models.Post>
+@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Manage Posts";
+}
+
+<h2>Manage Posts</h2>
+
+<p>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Text)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateAdded)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User)
+        </th>
+        <th>
+        </th>
+    </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Text)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateAdded)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.PostId })
+                
+                @if(User.Identity.GetUserId() == item.User || User.IsInRole("Administrator"))
+                {
+                    <text>|</text>
+                    @Html.ActionLink("Edit", "Edit", new { id=item.PostId })
+                    <text>|</text>
+                    @Html.ActionLink("Delete", "Delete", new { id=item.PostId })
+                }
+            </td>
+        </tr>
+}
+
+</table>

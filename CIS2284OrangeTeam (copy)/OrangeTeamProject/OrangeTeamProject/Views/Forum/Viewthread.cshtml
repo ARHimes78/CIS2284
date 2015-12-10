@@ -1,0 +1,28 @@
+﻿@model IEnumerable<OrangeTeamProject.Models.Post>
+@{
+    ViewBag.Title = "View Thread";
+}
+
+<h2>@ViewBag.thread.Title</h2>
+@using (Html.BeginForm("AddPost", "Forum", "post"))
+{
+    @Html.ValidationSummary(true)
+    @Html.Hidden("threadId", (object)Convert.ToString(ViewBag.thread.ThreadId) );
+    <center>
+        <table width="900" border="1">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td valign="top">User: @item.UserName <br /> Submitted: @item.DateAdded</td>
+                    <td width="600" height="100" valign="top">@item.Text</td>
+            
+                </tr>
+            }
+            <tr>
+                <td valign="top">Add Post:</td>
+                <td valign="top">@Html.TextArea("text", new { cols="75", rows="4"}) <br /> <input type="submit" value="Submit" /> </td>
+            </tr>
+        </table>
+        <p>@Html.ActionLink("Return to forum index", "Index", "Forum")</p>
+    </center>
+}

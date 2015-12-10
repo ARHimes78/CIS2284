@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div>
+    <table>
+        <tr>
+            <td>
+                <ul>
+                    <li>@Html.ActionLink("View Threads", "Index", "Forum")</li>
+                    <li>@Html.ActionLink("Create New Thread", "NewThread", "Forum")</li>
+                    <li>@Html.ActionLink("Manage Posts", "Index", "Modify")</li>
+                    <li>@Html.ActionLink("Manage User Roles", "ManageUserRoles", "Manage")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                </ul>
+            </td>
+            <td>
+                <img src="~/images/Logo.png" />
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+        </tr>
+    </table>
+
+</div>

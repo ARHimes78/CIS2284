@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "New Thread";
+}
+
+<h2>Create a New Forum Thread</h2>
+
+<form method="post" action="/Forum/NewThread">
+    <div>
+        <p>
+            <b>Subject:</b>
+        </p>
+        <p>
+            <textarea name="subject" cols="60" rows="1" maxlength="50" style="resize:none"></textarea>
+        </p>
+        <p>
+            <b>Message Body:</b>
+        </p>
+        <p>
+            <textarea name="messagebody" cols="143" rows="2" maxlength="250" style="resize:none"></textarea>
+        </p>
+        <p>
+            <button type="submit">Submit Thread</button>
+        </p>
+    </div>
+</form>
